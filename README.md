@@ -49,4 +49,4 @@
 
 ## Fun Fact
 
-When I'm not coding, you can find me reading tech blogs or playing chess! 🌐⛳
+When I'm not coding, you can find me reading tech blogs or playing FIFA! 🌐:gorilla:
