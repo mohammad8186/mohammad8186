@@ -1,18 +1,20 @@
 # Hi there 👋, I'm Mohammad Hosein!
+## My practice projects are showcased here on Public GitHub Repositories
+## Those special and more professional cases are in Private Repositories
 
 ## About Me
-
-- 🚀 Passionate about coding and learning new technologies.
+-  
+- 🚀 Passionate about Software Engineering, Artificial Intelligence, and Entrepreneurship.
 - 🔧 Currently exploring advanced features of **Django**, **Golang**, and **Front-end**.
 - 💡 Interested in web development, system programming, and DevOps.
-- 📧 How to reach me: [mohammad.hosein@example.com](mailto:mohammad.sh8186@example.com)
+- 📧 How to reach me: [mohammad.hosein@example.com](mailto:mohammad.sh8186@gmail.com)
 
 ---
 
 ### Connect with me:
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mohammad.sh8186@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mohammad.sh8186@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/mohammad-hosein-shahbazi/)
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/@Hartage8186)
 
@@ -44,14 +46,6 @@
 
 ---
 
-## Projects
-
-### Featured Projects:
-
-- **[My Cool Project 1](https://github.com/your-project-link)**: A detailed description of the project. Built with Python and Golang.
-- **[My Cool Project 2](https://github.com/your-project-link)**: A full-stack web app built with JavaScript, HTML, and CSS.
-
----
 
 ## Fun Fact
 
