@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mohammad Hosein!
-## My practice projects are showcased here on Public GitHub Repositories 👣
-## Those special and more professional cases are in Private Repositories 🚀
+My practice projects are showcased here on Public GitHub Repositories 👣
+ Those special and more professional cases are in Private Repositories 🚀
 
 ## About Me
 
@@ -32,15 +32,17 @@
 
 <div align="center">
   
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
+![Django](https://img.shields.io/badge/Django-2.2-green?logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-1.16-blue?logo=go&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-5C2D91?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
 
 </div>
 
