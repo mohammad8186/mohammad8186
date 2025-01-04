@@ -7,7 +7,7 @@
 - 🚀 Passionate about Software Engineering, Artificial Intelligence, and Entrepreneurship.
 - 🔧 Currently exploring advanced features of **Django**, **Golang**, and **Front-end**.
 - 💡 Interested in web development, system programming, and DevOps.
-- 📧 How to reach me: [mohammad.hosein@example.com](mailto:mohammad.sh8186@gmail.com)
+- 📧 How to reach me: [mohammad.sh8186@gmail.com](mailto:mohammad.sh8186@gmail.com)
 
 ---
 
