@@ -1,6 +1,6 @@
-<div  align = "center">
-# Hi there 👋, I'm Mohammad Hosein!
 
+ # Hi there 👋, I'm Mohammad Hosein!
+<div  align = "center">
 
 ### Connect with me:
 
@@ -26,7 +26,7 @@
 </div>
 
 
-    
+<div  align = "center">
 ![Django](https://img.shields.io/badge/Django-2.2-green?logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-1.16-blue?logo=go&logoColor=white)
@@ -38,6 +38,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
+</div>
 </div>
 
 
