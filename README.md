@@ -21,7 +21,7 @@
 ## Languages and Tools:
 
 <div align="center">
-  
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
