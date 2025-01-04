@@ -1,3 +1,4 @@
+<div  align = "center">
 # Hi there 👋, I'm Mohammad Hosein!
 
 
@@ -19,12 +20,12 @@
 ---
 
 ## Languages and Tools:
-<div  align = "center">
+
     
    <div style="display: flex;"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="72" style="width: 72px; height: 72px; margin-right: 50px; margin-bottom: 50px;" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="72" style="width: 72px; height: 72px; margin-right: 50px; margin-bottom: 50px;" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="72" style="width: 72px; height: 72px; margin-right: 50px; margin-bottom: 50px;" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="72" style="width: 72px; height: 72px; margin-right: 50px; margin-bottom: 50px;" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="72" style="width: 72px; height: 72px; margin-right: 50px; margin-bottom: 50px;" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="72" style="width: 72px; height: 72px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="72" style="width: 72px; height: 72px; margin-right: 50px; margin-bottom: 50px;" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="72" style="width: 72px; height: 72px; margin-right: 50px; margin-bottom: 50px;" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="72" style="width: 72px; height: 72px; margin-right: 50px; margin-bottom: 50px;" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="72" style="width: 72px; height: 72px; margin-right: 50px; margin-bottom: 50px;" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="72" style="width: 72px; height: 72px; margin-right: 50px; margin-bottom: 50px;" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="72" style="width: 72px; height: 72px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="72" style="width: 72px; height: 72px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="72" style="width: 72px; height: 72px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="72" style="width: 72px; height: 72px; margin-right: 50px; margin-bottom: 0px;" /></div>
 </div>
 
-<div  align = "center">
+
     
 ![Django](https://img.shields.io/badge/Django-2.2-green?logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python&logoColor=white)
