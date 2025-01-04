@@ -32,8 +32,9 @@
 
 <div align="center">
   
-![Django](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/django.svg)
-![Python](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/python.svg)
+![Django](https://img.shields.io/badge/Django-2.2-green?logo=django&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python&logoColor=white&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML5-5C2D91?logo=html5&logoColor=white&style=for-the-badge)
 
 </div>
 
