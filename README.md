@@ -1,15 +1,5 @@
 # Hi there 👋, I'm Mohammad Hosein!
-# My practice projects are showcased here on Public GitHub Repositories 👣
-# Those special and more professional cases are in Private Repositories 🚀
 
-## About Me
-
-- 🚀 Passionate about Software Engineering, Artificial Intelligence, and Entrepreneurship.
-- 🔧 Currently exploring advanced features of **Django**, **Golang**, and **Front-end**.
-- 💡 Interested in web development, system programming, and DevOps.
-- 📧 How to reach me: [mohammad.sh8186@gmail.com](mailto:mohammad.sh8186@gmail.com)
-
----
 
 ### Connect with me:
 
