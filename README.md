@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mohammad Hosein!
-My practice projects are showcased here on Public GitHub Repositories 👣
-Those special and more professional cases are in Private Repositories 🚀
+# My practice projects are showcased here on Public GitHub Repositories 👣
+# Those special and more professional cases are in Private Repositories 🚀
 
 ## About Me
 
@@ -32,7 +32,8 @@ Those special and more professional cases are in Private Repositories 🚀
 
 <div align="center">
   
-![Django Animation](https://media.giphy.com/media/3o6Zt6v3O4kT2QdCeY/giphy.gif)
+![Django](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/django.svg)
+![Python](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/python.svg)
 
 </div>
 
