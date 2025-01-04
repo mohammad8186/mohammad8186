@@ -2,8 +2,6 @@
 
 <p align="center">
   #Hi there 👋, I'm Mohammad Hosein.
-  
-  # متن عنوان شما # Hi there 👋, I'm Mohammad Hose
 </p>
 
 <div  align = "center">
