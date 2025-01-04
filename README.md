@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mohammad Hosein!
 My practice projects are showcased here on Public GitHub Repositories 👣
- Those special and more professional cases are in Private Repositories 🚀
+Those special and more professional cases are in Private Repositories 🚀
 
 ## About Me
 
@@ -32,17 +32,7 @@ My practice projects are showcased here on Public GitHub Repositories 👣
 
 <div align="center">
   
-![Django](https://img.shields.io/badge/Django-2.2-green?logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-1.16-blue?logo=go&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-5C2D91?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
+![Django Animation](https://media.giphy.com/media/3o6Zt6v3O4kT2QdCeY/giphy.gif)
 
 </div>
 
