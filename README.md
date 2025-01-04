@@ -32,7 +32,8 @@
 
 <div align="center">
   
-![Django](https://media.giphy.com/media/26Ffuv8LztfuT2gB6/giphy.gif)
+![Django](https://media.tenor.com/images/a6267a8fe57d99bceeb0dbba4423d33a/tenor.gif)
+
 
 
 </div>
