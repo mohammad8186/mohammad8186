@@ -11,7 +11,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mohammad.sh8186@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/mohammad-hosein-shahbazi/)
-[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/@Hartage8186)
+
 
 
 
